@@ -27,3 +27,8 @@ This site uses:
 Yes, it’s deliberately barebones.
 
 There is no tracking or analytics and no cookies, so I have no idea if you're even reading this. 
+
+## Sources and Credits
+
+- [d3.js](d3js.org)
+- [List of US states and territories](https://github.com/aruljohn/us-states) by Arul John

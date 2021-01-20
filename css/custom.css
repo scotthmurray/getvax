@@ -1,0 +1,23 @@
+* {
+	/* border: 1px red dashed; */
+}
+
+p {
+	margin: 12px 0 12px 0;
+}
+
+.state {
+	display: none;
+}
+
+#missingWarning {
+	display: none;
+	padding: 7px;
+	background-color: #faffa5;
+	border-radius: 5px;
+}
+
+.state.visible,
+#missingWarning.visible {
+	display: block;
+}
