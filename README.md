@@ -2,7 +2,11 @@
 
 A barebones listing of how to get your COVID vaccine, in US states and counties.
 
-Inspired by justdeleteme.xyz.
+Inspired by:
+
+- [justdeleteme.xyz](justdeleteme.xyz)
+- my own frustrations trying to navigate this process in Oregon
+- [this wonderful thread](https://twitter.com/arghavan_salles/status/1351033952455286785) by [Arghavan Salles, MD, PhD](https://twitter.com/arghavan_salles) about the UX of getting a vaccine appointment right now
 
 ## Contribute
 
